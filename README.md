@@ -1,9 +1,8 @@
 # Boilerplate
 
-demo app link : [https://agora-es6.netlify.com](https://agora-es6.netlify.com)
+demo app link : [https://agora-basic.netlify.com/](https://agora-basic.netlify.com/)
 
 ### TODO:
 
 1) Install agora-rtc-sdk
 2) Write the core rtc code
-3) Implement controls
