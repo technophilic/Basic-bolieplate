@@ -1,0 +1,68 @@
+{
+  "tree": {
+    "fusebox-hot-reload@0.0.0": {
+      "deps": {
+        "fusebox-websocket@0.0.0": {
+          "deps": {
+            "events@0.0.0": {
+              "deps": {},
+              "name": "events",
+              "version": "0.0.0"
+            }
+          },
+          "name": "fusebox-websocket",
+          "version": "0.0.0"
+        }
+      },
+      "name": "fusebox-hot-reload",
+      "version": "0.0.0"
+    },
+    "fuse-box-css@0.0.1": {
+      "deps": {},
+      "name": "fuse-box-css",
+      "version": "0.0.1"
+    },
+    "agora-rtc-sdk@3.0.0": {
+      "deps": {},
+      "name": "agora-rtc-sdk",
+      "version": "3.0.0"
+    }
+  },
+  "flat": {
+    "fusebox-hot-reload@0.0.0": {
+      "name": "fusebox-hot-reload",
+      "version": "0.0.0",
+      "files": [
+        "index.js"
+      ]
+    },
+    "fusebox-websocket@0.0.0": {
+      "name": "fusebox-websocket",
+      "version": "0.0.0",
+      "files": [
+        "index.js"
+      ]
+    },
+    "events@0.0.0": {
+      "name": "events",
+      "version": "0.0.0",
+      "files": [
+        "index.js"
+      ]
+    },
+    "fuse-box-css@0.0.1": {
+      "name": "fuse-box-css",
+      "version": "0.0.1",
+      "files": [
+        "index.js"
+      ]
+    },
+    "agora-rtc-sdk@3.0.0": {
+      "name": "agora-rtc-sdk",
+      "version": "3.0.0",
+      "files": [
+        "AgoraRTCSDK.min.js"
+      ]
+    }
+  }
+}

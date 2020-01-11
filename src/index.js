@@ -1,4 +1,7 @@
 import './index.css'
+import AgoraRTC from 'agora-rtc-sdk'
+
+
 /**
  * @name handleFail
  * @param err - error thrown by any function
